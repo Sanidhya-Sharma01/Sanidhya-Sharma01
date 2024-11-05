@@ -1,4 +1,4 @@
-# Hi there <span style="font-size: 40px;">👋</span>, I am Sanidhya Sharma!
+
 
 <div align="center">
   <p style="font-size: 30px; animation: fadeIn 2s ease-in-out 1;">
