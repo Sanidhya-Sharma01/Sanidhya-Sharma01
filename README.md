@@ -1,32 +1,4 @@
-
-
-<div align="center">
-  <p style="font-size: 30px; animation: fadeIn 2s ease-in-out 1;">
-    Hi there <span style="font-size: 50px;">👋</span>, I am <span style="color: #4CAF50;">Sanidhya Sharma</span>!
-  </p>
-</div>
-
-<style>
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  p {
-    animation: fadeIn 2s ease-in-out;
-  }
-
-  span {
-    font-weight: bold;
-  }
-</style>
-
+👋 Hi there, I’m Sanidhya Sharma
 
 
 <!---
